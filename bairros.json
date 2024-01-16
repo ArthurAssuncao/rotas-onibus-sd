@@ -5,7 +5,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_quarta_e_sexta"
+          "valor": "          Segunda Quarta E Sexta"
         },
         {
           "id": 2,
@@ -22,7 +22,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_quarta_e_sexta"
+          "valor": "          Segunda Quarta E Sexta"
         },
         {
           "id": 2,
@@ -41,7 +41,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "Segunda a Sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -89,7 +89,7 @@
         },
         {
           "id": 13,
-          "valor": "Sábado, Domingo, Feriados"
+          "valor": "          Sábado, Domingo, Feriados"
         },
         {
           "id": 14,
@@ -130,7 +130,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "Segunda a Sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -178,7 +178,7 @@
         },
         {
           "id": 13,
-          "valor": "Sábado, Domingo, Feriados"
+          "valor": "          Sábado, Domingo, Feriados"
         },
         {
           "id": 14,
@@ -221,7 +221,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -265,7 +265,7 @@
         },
         {
           "id": 12,
-          "valor": "sabado"
+          "valor": "          Sabado"
         },
         {
           "id": 13,
@@ -301,7 +301,7 @@
         },
         {
           "id": 21,
-          "valor": "domingo_feriados"
+          "valor": "          Domingo Feriados"
         },
         {
           "id": 22,
@@ -342,7 +342,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -382,7 +382,7 @@
         },
         {
           "id": 11,
-          "valor": "sabado"
+          "valor": "          Sabado"
         },
         {
           "id": 12,
@@ -418,7 +418,7 @@
         },
         {
           "id": 20,
-          "valor": "domingo_feriados"
+          "valor": "          Domingo Feriados"
         },
         {
           "id": 21,
@@ -461,7 +461,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "Segunda a Sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -513,7 +513,7 @@
         },
         {
           "id": 14,
-          "valor": "Horário Extra, Segunda a Sexta (Período Escolar)"
+          "valor": "          Horário Extra, Segunda a Sexta (Período Escolar)"
         },
         {
           "id": 15,
@@ -521,7 +521,7 @@
         },
         {
           "id": 16,
-          "valor": "Sábado"
+          "valor": "          Sábado"
         },
         {
           "id": 17,
@@ -557,7 +557,7 @@
         },
         {
           "id": 25,
-          "valor": "Domingo, Feriados"
+          "valor": "          Domingo, Feriados"
         },
         {
           "id": 26,
@@ -586,7 +586,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "Segunda a Sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -638,7 +638,7 @@
         },
         {
           "id": 14,
-          "valor": "Horário Extra, Segunda a Sexta (Período Escolar)"
+          "valor": "          Horário Extra, Segunda a Sexta (Período Escolar)"
         },
         {
           "id": 15,
@@ -646,7 +646,7 @@
         },
         {
           "id": 16,
-          "valor": "Sábado"
+          "valor": "          Sábado"
         },
         {
           "id": 17,
@@ -682,7 +682,7 @@
         },
         {
           "id": 25,
-          "valor": "Domingo, Feriados"
+          "valor": "          Domingo, Feriados"
         },
         {
           "id": 26,
@@ -713,7 +713,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -794,7 +794,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -873,7 +873,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_Domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -1002,7 +1002,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -1133,7 +1133,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -1262,7 +1262,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -1393,7 +1393,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -1525,7 +1525,7 @@
         },
         {
           "id": 34,
-          "valor": "horario_extra_terca_e_quinta"
+          "valor": "          Horario Extra Terça E Quinta"
         },
         {
           "id": 35,
@@ -1533,7 +1533,7 @@
         },
         {
           "id": 36,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 37,
@@ -1650,7 +1650,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -1782,7 +1782,7 @@
         },
         {
           "id": 34,
-          "valor": "horario_extra_terca_e_quinta"
+          "valor": "          Horario Extra Terça E Quinta"
         },
         {
           "id": 35,
@@ -1790,7 +1790,7 @@
         },
         {
           "id": 36,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 37,
@@ -1909,7 +1909,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_quarta_e_sexta"
+          "valor": "          Segunda Quarta E Sexta"
         },
         {
           "id": 2,
@@ -1926,7 +1926,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_quarta_e_sexta"
+          "valor": "          Segunda Quarta E Sexta"
         },
         {
           "id": 2,
@@ -1945,7 +1945,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda"
+          "valor": "          Segunda"
         },
         {
           "id": 2,
@@ -1965,7 +1965,7 @@
         },
         {
           "id": 6,
-          "valor": "segunda_periodo_escolar"
+          "valor": "          Segunda Periodo Escolar"
         },
         {
           "id": 7,
@@ -1973,7 +1973,7 @@
         },
         {
           "id": 8,
-          "valor": "terca_a_sexta"
+          "valor": "          Terça a Sexta"
         },
         {
           "id": 9,
@@ -1989,7 +1989,7 @@
         },
         {
           "id": 12,
-          "valor": "terca_a_sexta_periodo_escolar"
+          "valor": "          Terça a Sexta Periodo Escolar"
         },
         {
           "id": 13,
@@ -2001,7 +2001,7 @@
         },
         {
           "id": 15,
-          "valor": "sabado "
+          "valor": "          Sabado "
         },
         {
           "id": 16,
@@ -2013,7 +2013,7 @@
         },
         {
           "id": 18,
-          "valor": "domingo_feriado "
+          "valor": "          Domingo Feriado "
         },
         {
           "id": 19,
@@ -2034,7 +2034,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda"
+          "valor": "          Segunda"
         },
         {
           "id": 2,
@@ -2054,7 +2054,7 @@
         },
         {
           "id": 6,
-          "valor": "segunda_periodo_escolar"
+          "valor": "          Segunda Periodo Escolar"
         },
         {
           "id": 7,
@@ -2062,7 +2062,7 @@
         },
         {
           "id": 8,
-          "valor": "terca_a_sexta"
+          "valor": "          Terça a Sexta"
         },
         {
           "id": 9,
@@ -2078,7 +2078,7 @@
         },
         {
           "id": 12,
-          "valor": "terca_a_sexta_periodo_escolar"
+          "valor": "          Terça a Sexta Periodo Escolar"
         },
         {
           "id": 13,
@@ -2090,7 +2090,7 @@
         },
         {
           "id": 15,
-          "valor": "sabado "
+          "valor": "          Sabado "
         },
         {
           "id": 16,
@@ -2102,7 +2102,7 @@
         },
         {
           "id": 18,
-          "valor": "domingo_feriado "
+          "valor": "          Domingo Feriado "
         },
         {
           "id": 19,
@@ -2125,7 +2125,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -2169,7 +2169,7 @@
         },
         {
           "id": 12,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 13,
@@ -2198,7 +2198,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -2242,7 +2242,7 @@
         },
         {
           "id": 12,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 13,
@@ -2273,7 +2273,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -2418,7 +2418,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -2565,7 +2565,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -2710,7 +2710,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -2857,7 +2857,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -2970,7 +2970,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -3085,7 +3085,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -3198,7 +3198,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_domingo"
+          "valor": "          Segunda a Domingo"
         },
         {
           "id": 2,
@@ -3317,7 +3317,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -3361,7 +3361,7 @@
         },
         {
           "id": 12,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 13,
@@ -3390,7 +3390,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -3434,7 +3434,7 @@
         },
         {
           "id": 12,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 13,
@@ -3465,7 +3465,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_quarta_e_sexta"
+          "valor": "          Segunda Quarta E Sexta"
         },
         {
           "id": 2,
@@ -3481,7 +3481,7 @@
         },
         {
           "id": 5,
-          "valor": "escolar_segunda_a_sexta"
+          "valor": "          Escolar Segunda a Sexta"
         },
         {
           "id": 6,
@@ -3498,7 +3498,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_quarta_e_sexta"
+          "valor": "          Segunda Quarta E Sexta"
         },
         {
           "id": 2,
@@ -3514,7 +3514,7 @@
         },
         {
           "id": 5,
-          "valor": "escolar_segunda_a_sexta"
+          "valor": "          Escolar Segunda a Sexta"
         },
         {
           "id": 6,
@@ -3533,7 +3533,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -3673,7 +3673,7 @@
         },
         {
           "id": 36,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 37,
@@ -3790,7 +3790,7 @@
       "horarios": [
         {
           "id": 1,
-          "valor": "segunda_a_sexta"
+          "valor": "          Segunda a Sexta"
         },
         {
           "id": 2,
@@ -3922,7 +3922,7 @@
         },
         {
           "id": 34,
-          "valor": "sabado_domingo_feriados"
+          "valor": "          Sabado Domingo Feriados"
         },
         {
           "id": 35,
