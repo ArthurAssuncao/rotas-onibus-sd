@@ -1,7 +1,7 @@
-[
-  {
-    "rio_pinho": {
-      "titulo": "Centro Para Bairro Centro Sentido Rio Pinho",
+{
+  "rio_pinho": [
+    {
+      "titulo": "Centro Sentido Rio Pinho",
       "horarios": [
         {
           "id": 1,
@@ -12,11 +12,9 @@
           "valor": "14:30"
         }
       ]
-    }
-  },
-  {
-    "rio_pinho": {
-      "titulo": "Centro Para Bairro Rio Pinho Sentido Centro",
+    },
+    {
+      "titulo": "Rio Pinho Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -28,10 +26,10 @@
         }
       ]
     }
-  },
-  {
-    "perobas": {
-      "titulo": "Centro Para Bairro Centro Sentido Perobas",
+  ],
+  "perobas": [
+    {
+      "titulo": "Centro Sentido Perobas",
       "horarios": [
         {
           "id": 1,
@@ -110,11 +108,9 @@
           "valor": "13:15"
         }
       ]
-    }
-  },
-  {
-    "perobas": {
-      "titulo": "Centro Para Bairro Perobas Sentido Rodoviária",
+    },
+    {
+      "titulo": "Perobas Sentido Rodoviária",
       "horarios": [
         {
           "id": 1,
@@ -194,10 +190,10 @@
         }
       ]
     }
-  },
-  {
-    "patrimono_da_serra": {
-      "titulo": "Centro Para Bairro Centro Sentido Patrimono Da Serra",
+  ],
+  "patrimono_da_serra": [
+    {
+      "titulo": "Centro Sentido Patrimono Da Serra",
       "horarios": [
         {
           "id": 1,
@@ -304,11 +300,9 @@
           "valor": "16:30"
         }
       ]
-    }
-  },
-  {
-    "patrimono_da_serra": {
-      "titulo": "Centro Para Bairro Patrimono Da Serra Sentido Centro",
+    },
+    {
+      "titulo": "Patrimono Da Serra Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -412,10 +406,10 @@
         }
       ]
     }
-  },
-  {
-    "campo_alegre": {
-      "titulo": "Centro Para Bairro Centro Sentido Campo Alegre",
+  ],
+  "campo_alegre": [
+    {
+      "titulo": "Centro Sentido Campo Alegre",
       "horarios": [
         {
           "id": 1,
@@ -522,11 +516,9 @@
           "valor": "21:00"
         }
       ]
-    }
-  },
-  {
-    "campo_alegre": {
-      "titulo": "Centro Para Bairro Campo Alegre Sentido Centro",
+    },
+    {
+      "titulo": "Campo Alegre Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -634,10 +626,10 @@
         }
       ]
     }
-  },
-  {
-    "francesa": {
-      "titulo": "Centro Para Bairro Centro Sentido Francesa",
+  ],
+  "francesa": [
+    {
+      "titulo": "Centro Sentido Francesa",
       "horarios": [
         {
           "id": 1,
@@ -712,11 +704,9 @@
           "valor": "20:05"
         }
       ]
-    }
-  },
-  {
-    "francesa": {
-      "titulo": "Centro Para Bairro Francesa Sentido Centro ",
+    },
+    {
+      "titulo": "Francesa Sentido Centro ",
       "horarios": [
         {
           "id": 1,
@@ -788,10 +778,10 @@
         }
       ]
     }
-  },
-  {
-    "barra": {
-      "titulo": "Centro Para Bairro Centro Sentido Barra",
+  ],
+  "barra": [
+    {
+      "titulo": "Centro Sentido Barra",
       "horarios": [
         {
           "id": 1,
@@ -914,11 +904,9 @@
           "valor": "20:15"
         }
       ]
-    }
-  },
-  {
-    "barra": {
-      "titulo": "Centro Para Bairro Barra Sentido Centro",
+    },
+    {
+      "titulo": "Barra Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -1042,10 +1030,10 @@
         }
       ]
     }
-  },
-  {
-    "capitao_nestor": {
-      "titulo": "Centro Para Bairro Centro Sentido Capitao Nestor",
+  ],
+  "capitao_nestor": [
+    {
+      "titulo": "Centro Sentido Capitao Nestor",
       "horarios": [
         {
           "id": 1,
@@ -1168,11 +1156,9 @@
           "valor": "19:45"
         }
       ]
-    }
-  },
-  {
-    "capitao_nestor": {
-      "titulo": "Centro Para Bairro Capitao Nestor Sentido Centro",
+    },
+    {
+      "titulo": "Capitao Nestor Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -1296,10 +1282,10 @@
         }
       ]
     }
-  },
-  {
-    "constantino_horta": {
-      "titulo": "Centro Para Bairro Centro Sentido Constantino Horta",
+  ],
+  "constantino_horta": [
+    {
+      "titulo": "Centro Sentido Constantino Horta",
       "horarios": [
         {
           "id": 1,
@@ -1542,11 +1528,9 @@
           "valor": "23:00"
         }
       ]
-    }
-  },
-  {
-    "constantino_horta": {
-      "titulo": "Centro Para Bairro Constantino Horta Sentido Centro",
+    },
+    {
+      "titulo": "Constantino Horta Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -1790,10 +1774,10 @@
         }
       ]
     }
-  },
-  {
-    "joao_calixto": {
-      "titulo": "Centro Para Bairro Centro Sentido Joao Calixto",
+  ],
+  "joao_calixto": [
+    {
+      "titulo": "Centro Sentido Joao Calixto",
       "horarios": [
         {
           "id": 1,
@@ -1804,11 +1788,9 @@
           "valor": "14:30"
         }
       ]
-    }
-  },
-  {
-    "joao_calixto": {
-      "titulo": "Centro Para Bairro Joao Calixto Sentido Centro",
+    },
+    {
+      "titulo": "Joao Calixto Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -1820,10 +1802,10 @@
         }
       ]
     }
-  },
-  {
-    "sao_joao_da_serra": {
-      "titulo": "Centro Para Bairro Centro Sentido Sao Joao Da Serra",
+  ],
+  "sao_joao_da_serra": [
+    {
+      "titulo": "Centro Sentido Sao Joao Da Serra",
       "horarios": [
         {
           "id": 1,
@@ -1886,11 +1868,9 @@
           "valor": "18:00 "
         }
       ]
-    }
-  },
-  {
-    "sao_joao_da_serra": {
-      "titulo": "Centro Para Bairro Sao Joao Da Serra Sentido Centro",
+    },
+    {
+      "titulo": "Sao Joao Da Serra Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -1954,10 +1934,10 @@
         }
       ]
     }
-  },
-  {
-    "caic": {
-      "titulo": "Centro Para Bairro Centro Sentido Caic",
+  ],
+  "caic": [
+    {
+      "titulo": "Centro Sentido Caic",
       "horarios": [
         {
           "id": 1,
@@ -2020,11 +2000,9 @@
           "valor": "09:55"
         }
       ]
-    }
-  },
-  {
-    "caic": {
-      "titulo": "Centro Para Bairro Caic Sentido Centro",
+    },
+    {
+      "titulo": "Caic Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -2088,10 +2066,10 @@
         }
       ]
     }
-  },
-  {
-    "boa_vista": {
-      "titulo": "Centro Para Bairro Centro Sentido Boa Vista",
+  ],
+  "boa_vista": [
+    {
+      "titulo": "Centro Sentido Boa Vista",
       "horarios": [
         {
           "id": 1,
@@ -2230,11 +2208,9 @@
           "valor": "19:05 "
         }
       ]
-    }
-  },
-  {
-    "boa_vista": {
-      "titulo": "Centro Para Bairro Boa Vista Sentido Centro",
+    },
+    {
+      "titulo": "Boa Vista Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -2374,10 +2350,10 @@
         }
       ]
     }
-  },
-  {
-    "bairro_da_gloria": {
-      "titulo": "Centro Para Bairro Centro Sentido Bairro Da Gloria",
+  ],
+  "bairro_da_gloria": [
+    {
+      "titulo": "Centro Sentido Bairro Da Gloria",
       "horarios": [
         {
           "id": 1,
@@ -2516,11 +2492,9 @@
           "valor": "19:05"
         }
       ]
-    }
-  },
-  {
-    "bairro_da_gloria": {
-      "titulo": "Centro Para Bairro Bairro Da Gloria Sentido Centro",
+    },
+    {
+      "titulo": "Bairro Da Gloria Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -2660,10 +2634,10 @@
         }
       ]
     }
-  },
-  {
-    "vila_esperanca": {
-      "titulo": "Centro Para Bairro Centro Sentido Vila Esperanca",
+  ],
+  "vila_esperanca": [
+    {
+      "titulo": "Centro Sentido Vila Esperanca",
       "horarios": [
         {
           "id": 1,
@@ -2770,11 +2744,9 @@
           "valor": "17:35"
         }
       ]
-    }
-  },
-  {
-    "vila_esperanca": {
-      "titulo": "Centro Para Bairro Vila Esperanca Sentido Centro",
+    },
+    {
+      "titulo": "Vila Esperanca Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -2882,10 +2854,10 @@
         }
       ]
     }
-  },
-  {
-    "santo_antonio": {
-      "titulo": "Centro Para Bairro Centro Sentido Santo Antonio",
+  ],
+  "santo_antonio": [
+    {
+      "titulo": "Centro Sentido Santo Antonio",
       "horarios": [
         {
           "id": 1,
@@ -2992,11 +2964,9 @@
           "valor": "17:35"
         }
       ]
-    }
-  },
-  {
-    "santo_antonio": {
-      "titulo": "Centro Para Bairro Santo Antonio Sentido Centro",
+    },
+    {
+      "titulo": "Santo Antonio Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -3108,10 +3078,10 @@
         }
       ]
     }
-  },
-  {
-    "bairro_de_fatima": {
-      "titulo": "Centro Para Bairro Centro Sentido Bairro De Fatima",
+  ],
+  "bairro_de_fatima": [
+    {
+      "titulo": "Centro Sentido Bairro De Fatima",
       "horarios": [
         {
           "id": 1,
@@ -3174,11 +3144,9 @@
           "valor": "10:35"
         }
       ]
-    }
-  },
-  {
-    "bairro_de_fatima": {
-      "titulo": "Centro Para Bairro Bairro De Fatima Sentido Centro",
+    },
+    {
+      "titulo": "Bairro De Fatima Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -3242,10 +3210,10 @@
         }
       ]
     }
-  },
-  {
-    "patrimono_dos_paiva": {
-      "titulo": "Centro Para Bairro Centro Sentido Patrimono Dos Paiva",
+  ],
+  "patrimono_dos_paiva": [
+    {
+      "titulo": "Centro Sentido Patrimono Dos Paiva",
       "horarios": [
         {
           "id": 1,
@@ -3268,11 +3236,9 @@
           "valor": "17:00_vocacional"
         }
       ]
-    }
-  },
-  {
-    "patrimono_dos_paiva": {
-      "titulo": "Centro Para Bairro Patrimono Dos Paiva Sentido Rodoviária",
+    },
+    {
+      "titulo": "Patrimono Dos Paiva Sentido Rodoviária",
       "horarios": [
         {
           "id": 1,
@@ -3296,10 +3262,10 @@
         }
       ]
     }
-  },
-  {
-    "corrego_do_ouro": {
-      "titulo": "Centro Para Bairro Centro Sentido Corrego Do Ouro",
+  ],
+  "corrego_do_ouro": [
+    {
+      "titulo": "Centro Sentido Corrego Do Ouro",
       "horarios": [
         {
           "id": 1,
@@ -3546,11 +3512,9 @@
           "valor": "23:00"
         }
       ]
-    }
-  },
-  {
-    "corrego_do_ouro": {
-      "titulo": "Centro Para Bairro Corrego Do Ouro Sentido Centro",
+    },
+    {
+      "titulo": "Corrego Do Ouro Sentido Centro",
       "horarios": [
         {
           "id": 1,
@@ -3790,5 +3754,5 @@
         }
       ]
     }
-  }
-]
+  ]
+}
